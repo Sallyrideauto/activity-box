@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: Sallyrideauto
-          GIST_ID: 91ed8ccd0dff437e8c9d0f20fe1ca101
+          GIST_ID: 70887134302f95d2c58c07333c4f8e6c
